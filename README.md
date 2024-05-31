@@ -1,4 +1,4 @@
-# HUWEI
+# xiaomi
 
 ## Project setup
 ```
